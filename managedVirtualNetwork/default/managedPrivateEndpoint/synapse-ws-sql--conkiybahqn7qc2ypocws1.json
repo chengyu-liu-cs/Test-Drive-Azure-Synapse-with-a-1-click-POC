@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--conkiybahqn7qc2ypocws1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/4184924b-122f-41c4-8c47-5c3241f07f9e/resourceGroups/rg-vbd-syn-aml-pbi/providers/Microsoft.Synapse/workspaces/conkiybahqn7qc2ypocws1",
+		"groupId": "sql",
+		"fqdns": [
+			"conkiybahqn7qc2ypocws1.8c75adc1-fc82-4189-93de-0e825e9c26f8.sql.azuresynapse.net"
+		]
+	}
+}
